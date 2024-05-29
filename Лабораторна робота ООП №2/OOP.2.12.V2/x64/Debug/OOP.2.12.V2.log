@@ -1,0 +1,6 @@
+﻿  OOP.2.12.V2.cpp
+C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №2\OOP.2.12.V2\AngleWork.h(15,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №2\OOP.2.12.V2\AngleWork.h(19,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №2\OOP.2.12.V2\AngleWork.h(29,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №2\OOP.2.12.V2\AngleWork.h(39,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  OOP.2.12.V2.vcxproj -> C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №2\OOP.2.12.V2\x64\Debug\OOP.2.12.V2.exe

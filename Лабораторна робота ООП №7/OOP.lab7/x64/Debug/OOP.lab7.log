@@ -1,0 +1,7 @@
+﻿  OOP.lab7.cpp
+C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №7\OOP.lab7\OOP.lab7.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №7\OOP.lab7\CSmartphone.h(32,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №7\OOP.lab7\OOP.lab7.cpp(33,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №7\OOP.lab7\OOP.lab7.cpp(52,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №7\OOP.lab7\OOP.lab7.cpp(77,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  OOP.lab7.vcxproj -> C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №7\OOP.lab7\x64\Debug\OOP.lab7.exe

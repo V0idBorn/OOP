@@ -1,0 +1,6 @@
+Angle(degree): 90
+Sin: 1
+Cos: 0
+Angle(degree): 20
+Sin: 0.34202
+Cos: 0.939693

@@ -1,0 +1,6 @@
+﻿  CBrowser.cpp
+C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №5\OOP.lab5\CBrowser.cpp(43,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №5\OOP.lab5\CBrowser.cpp(47,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  OOP.lab5.cpp
+  Generating Code...
+  OOP.lab5.vcxproj -> C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №5\OOP.lab5\x64\Debug\OOP.lab5.exe

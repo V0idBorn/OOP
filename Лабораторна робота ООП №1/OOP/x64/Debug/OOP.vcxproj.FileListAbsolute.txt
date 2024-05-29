@@ -1,0 +1,3 @@
+D:\Visual studio\Repos\OOP\x64\Debug\OOP.exe
+C:\Users\pulse\OneDrive\Рабочий стол\WORK\Labs\ООП\Лабораторна робота ООП №1\OOP\x64\Debug\OOP.exe
+C:\Users\pulse\OneDrive\Рабочий стол\WORK\Лабораторні роботи\ООП\Лабораторна робота ООП №1\OOP\x64\Debug\OOP.exe
